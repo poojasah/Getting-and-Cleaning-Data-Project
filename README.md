@@ -11,7 +11,6 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-
 This project creates one R script called run_analysis.R that does the following:
 1. Downloads UCI HAR zip file to finalproject directory
 2. Reads data
